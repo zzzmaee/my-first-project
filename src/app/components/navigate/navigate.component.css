@@ -1,0 +1,17 @@
+.nav {
+  display: flex;
+  align-items: center;
+  background-color: #0047AB;
+  color: white;
+  padding: 10px;
+  box-shadow: 5px 5px 5px gray;
+}
+
+.navi {
+  margin-top: 10px;
+  margin-right: 20px;
+}
+
+.home,.counter,.blog:hover {
+  cursor: pointer;
+}
